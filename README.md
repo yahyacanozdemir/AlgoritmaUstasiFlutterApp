@@ -30,11 +30,12 @@ https://drive.google.com/file/d/13qIuOayBtq1WaUTRhW8nOv7tZXF37gV2/view?usp=shari
 ## Uygulamaya ait proje raporuna bu linkten ulaşabilirsiniz -> 
 [Uygulama Detaylı Rapor.pdf](https://github.com/yahyacanozdemir/algoritmaUstasi/files/5810885/Uygulama.Detayli.Rapor.pdf)
 
-### Sunum görsellerinin hepsi Photoshop 2020 kullanılarak tarafımca oluşturulmuştur.
+### Sunum Görselleri Hakkında
+Sunum görsellerinin hepsi Photoshop 2020 kullanılarak tarafımca oluşturulmuştur.
 
 
 ### Dikkat
-#### Bu uygulama algoritma analizi ve tasarımı dersi kapsamında flutter back-end'de çalışmak, alıştırma yapmak ve mobil programlama üzerine kendimi geliştirmek için tarafımca kodlanmış bir dönem proje uygulamasıdır.
+Bu uygulama algoritma analizi ve tasarımı dersi kapsamında flutter back-end'de çalışmak, alıştırma yapmak ve mobil programlama üzerine kendimi geliştirmek için tarafımca kodlanmış bir dönem proje uygulamasıdır.
 
 
 
