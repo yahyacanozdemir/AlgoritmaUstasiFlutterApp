@@ -17,13 +17,13 @@ https://drive.google.com/file/d/13qIuOayBtq1WaUTRhW8nOv7tZXF37gV2/view?usp=shari
 
 
 ## Ekran Görüntüleri
-                                                                     #ANASAYFA
+                                                                   #ANASAYFA
 ![mainpagedesign0](https://user-images.githubusercontent.com/43846778/104504380-68499a00-55f3-11eb-8a88-bc2ea5f849dd.jpg)
 
-                                                                  #ALGORİTMA SAYFASI 
+                                                               #ALGORİTMA SAYFASI 
 ![algorithmpagedesign](https://user-images.githubusercontent.com/43846778/104504420-7697b600-55f3-11eb-9228-43a3b770ce70.jpg)
 
-                                                                 #ALGORİTMA DENEYİMLEME
+                                                             #ALGORİTMA DENEYİMLEME
 ![runningpage](https://user-images.githubusercontent.com/43846778/104504467-8a431c80-55f3-11eb-80d3-6fd6f5b046d1.jpg)
 
 
@@ -37,9 +37,9 @@ Sunum görsellerinin hepsi Photoshop 2020 kullanılarak tarafımca oluşturulmu�
 ### Dikkat
 Bu uygulama algoritma analizi ve tasarımı dersi kapsamında flutter back-end'de çalışmak, alıştırma yapmak ve mobil programlama üzerine kendimi geliştirmek için tarafımca kodlanmış bir dönem proje uygulamasıdır.
 
---------------------------------
+
 Algoritma Ustası Uygulama fikri ve kodları tümüyle Yahya Can Özdemir'e aittir. 
---------------------------------
+
 
 
 
