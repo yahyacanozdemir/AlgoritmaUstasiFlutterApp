@@ -37,7 +37,9 @@ Sunum görsellerinin hepsi Photoshop 2020 kullanılarak tarafımca oluşturulmu�
 ### Dikkat
 Bu uygulama algoritma analizi ve tasarımı dersi kapsamında flutter back-end'de çalışmak, alıştırma yapmak ve mobil programlama üzerine kendimi geliştirmek için tarafımca kodlanmış bir dönem proje uygulamasıdır.
 
-
+--------------------------------
+Algoritma Ustası Uygulama fikri ve kodları tümüyle Yahya Can Özdemir'e aittir. 
+--------------------------------
 
 
 
