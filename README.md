@@ -12,8 +12,7 @@ Uygulamanın çalışabilmesi için Android 4.1 & OS 9.0 veya daha üst sürüme
 Yeni sürümler için github ve linkedin hesaplarımı takip edebilirsiniz..
 
 
-## İndirme ve Test Bağlantısı(Android)
-![3_2](https://user-images.githubusercontent.com/43846778/99798615-5e9b3d00-2b42-11eb-8695-b1381cadb354.jpg)
+## İndirme ve Test Bağlantısı(Android) ->
 https://drive.google.com/file/d/13qIuOayBtq1WaUTRhW8nOv7tZXF37gV2/view?usp=sharing
 
 
@@ -26,7 +25,8 @@ https://drive.google.com/file/d/13qIuOayBtq1WaUTRhW8nOv7tZXF37gV2/view?usp=shari
 ![runningpage](https://user-images.githubusercontent.com/43846778/104504467-8a431c80-55f3-11eb-80d3-6fd6f5b046d1.jpg)
 
 
-# Uygulamaya ait proje raporuna bu linkten ulaşabilirsiniz -> [Uygulama Detaylı Rapor.pdf](https://github.com/yahyacanozdemir/algoritmaUstasi/files/5810885/Uygulama.Detayli.Rapor.pdf)
+## Uygulamaya ait proje raporuna bu linkten ulaşabilirsiniz -> 
+[Uygulama Detaylı Rapor.pdf](https://github.com/yahyacanozdemir/algoritmaUstasi/files/5810885/Uygulama.Detayli.Rapor.pdf)
 
 ### Sunum görsellerinin hepsi Photoshop 2020 kullanılarak tarafımca oluşturulmuştur.
 
