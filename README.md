@@ -1,6 +1,6 @@
 # Algoritma Ustası Android & Ios App
 
-                                                   Flutter ile Algoritma Öğretici Mobile App
+Flutter ile Algoritma Öğretici Mobile App
                                                        
 ![entery](https://user-images.githubusercontent.com/43846778/104504268-3fc1a000-55f3-11eb-9c30-13476400b105.png)
 
@@ -18,13 +18,13 @@ https://drive.google.com/file/d/13qIuOayBtq1WaUTRhW8nOv7tZXF37gV2/view?usp=shari
 
 
 ## Ekran Görüntüleri
-                                                                   ANASAYFA
+ANASAYFA
 ![mainpagedesign0](https://user-images.githubusercontent.com/43846778/104504380-68499a00-55f3-11eb-8a88-bc2ea5f849dd.jpg)
 
-                                                               ALGORİTMA SAYFASI 
+ALGORİTMA SAYFASI 
 ![algorithmpagedesign](https://user-images.githubusercontent.com/43846778/104504420-7697b600-55f3-11eb-9228-43a3b770ce70.jpg)
 
-                                                             ALGORİTMA DENEYİMLEME
+ALGORİTMA DENEYİMLEME
 ![runningpage](https://user-images.githubusercontent.com/43846778/104504467-8a431c80-55f3-11eb-80d3-6fd6f5b046d1.jpg)
 
 
