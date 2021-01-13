@@ -10,6 +10,7 @@
 Algoritma Ustası 1.0 Çıktı!
 Uygulamanın çalışabilmesi için Android 4.1 & OS 9.0 veya daha üst sürüme sahip bir  akıllı telefon gerekmektedir.
 Yeni sürümler için github ve linkedin hesaplarımı takip edebilirsiniz..
+(IOS sürüm için macOS gerektiğinden şu an için yalnızca android versiyon bulunmaktadır)
 
 
 ## İndirme ve Test Bağlantısı(Android) ->
