@@ -1,6 +1,6 @@
 # Algoritma Ustası Android & Ios App
 
-                                                       Flutter ile Algoritma Öğretici Mobile App
+                                                   Flutter ile Algoritma Öğretici Mobile App
                                                        
 ![entery](https://user-images.githubusercontent.com/43846778/104504268-3fc1a000-55f3-11eb-9c30-13476400b105.png)
 
